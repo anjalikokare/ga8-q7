@@ -2,4 +2,4 @@ import os
 
 
 def test():
-    print( "bad formatting" )
+    print("bad formatting")
