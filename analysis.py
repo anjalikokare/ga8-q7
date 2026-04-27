@@ -1,2 +1,2 @@
 def test():
-    print("bad formatting")
+    return "ok"
