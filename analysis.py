@@ -1,2 +1,2 @@
-def main():
+def test():
     return "ok"
